@@ -2,7 +2,7 @@
 //  HomeViewController.swift
 //  SpotifyCloneB
 //
-//  Created by Linder Anderson Hassinger Solano    on 3/06/22.
+//  Created by MAC42 on 07/06/22.
 //
 
 import UIKit

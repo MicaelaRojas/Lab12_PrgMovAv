@@ -2,7 +2,7 @@
 //  SearchTableViewCell.swift
 //  SpotifyCloneB
 //
-//  Created by Linder Anderson Hassinger Solano    on 3/06/22.
+//  Created by MAC42 on 9/06/22.
 //
 
 import UIKit

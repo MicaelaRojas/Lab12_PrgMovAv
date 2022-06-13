@@ -2,14 +2,14 @@
 //  Request.swift
 //  SpotifyCloneB
 //
-//  Created by Linder Anderson Hassinger Solano    on 7/05/22.
+//  Created by MAC42 on 9/05/22.
 //
 
 import Foundation
 
 class Request {
     
-    let token = "BQBXvsp5YfkpnXnqE_jaMEDH25k8lXrmmZeM-YWzD4W4uWKk7ymVGOV7SBg97VyJmdDE2Z6pSToBR8fcPQVlzlAGnXIQMVClh1dPqvErbDzOHg1PVblqJ2vubLveZaoirDjaJ4RpYV8W3dHRAHSiCptp1BIaXz_dLWUqGbVp7M9t_DwlBBuzk3BSI01gBYpGwi8e25YOtysB0FhiQ7Wio08"
+    let token = "BQCc6mNt8vistjcQDr5Zr8Q2c4BPy0YSplcoi90X0CPPKpnz5AKglLYOXSOd2gowDA9gHmNF4OdM8WA0utglJWgghuPjvvEKgvkKpQK6PE89-Dg3052dkS_ymJe7mmoG3cu3bTO-qGVA-1nnjSLlnzaWrPAJ93POXFaCPaRq3Gwwun8EXNAgFF6W9fIfgWvf2xitaQz1INF8lf7WGfD22JM"
     
     let BASE_URL = "https://api.spotify.com/v1/"
     
